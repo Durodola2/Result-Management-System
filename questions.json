@@ -1,0 +1,86 @@
+{
+  "Mathematics": [
+    {"question": "What is 12 × 8?", "options": ["A. 96", "B. 84", "C. 108", "D. 88"], "answer": "A"},
+    {"question": "What is the value of π (pi) approximately?", "options": ["A. 3.12", "B. 3.14", "C. 3.18", "D. 3.10"], "answer": "B"},
+    {"question": "Solve: 3² + 4²", "options": ["A. 25", "B. 7", "C. 12", "D. 5"], "answer": "A"},
+    {"question": "What is the square root of 121?", "options": ["A. 10", "B. 12", "C. 11", "D. 13"], "answer": "C"},
+    {"question": "What is 15% of 200?", "options": ["A. 30", "B. 15", "C. 20", "D. 35"], "answer": "A"},
+    {"question": "Which of these is an odd number?", "options": ["A. 4", "B. 6", "C. 7", "D. 2"], "answer": "C"},
+    {"question": "What is the LCM of 4 and 5?", "options": ["A. 10", "B. 20", "C. 15", "D. 8"], "answer": "B"},
+    {"question": "Solve: 100 ÷ 25", "options": ["A. 5", "B. 4", "C. 6", "D. 3"], "answer": "B"},
+    {"question": "Convert 0.75 to a fraction", "options": ["A. 3/4", "B. 1/4", "C. 2/3", "D. 4/5"], "answer": "A"},
+    {"question": "What is the perimeter of a square with side 6cm?", "options": ["A. 36cm", "B. 24cm", "C. 12cm", "D. 18cm"], "answer": "B"}
+  ],
+  "English": [
+    {"question": "What is the plural of 'child'?", "options": ["A. Childs", "B. Children", "C. Childes", "D. Childer"], "answer": "B"},
+    {"question": "Choose the correct spelling:", "options": ["A. Accomodation", "B. Acommodation", "C. Accommodation", "D. Acomodation"], "answer": "C"},
+    {"question": "Pick the noun from this: She dances gracefully.", "options": ["A. She", "B. Dances", "C. Gracefully", "D. None"], "answer": "B"},
+    {"question": "What is the opposite of 'tall'?", "options": ["A. Big", "B. Short", "C. Long", "D. Tiny"], "answer": "B"},
+    {"question": "Which is a verb?", "options": ["A. Run", "B. Red", "C. House", "D. Happy"], "answer": "A"},
+    {"question": "Complete: The boy ___ a new phone.", "options": ["A. buying", "B. buys", "C. buy", "D. bought"], "answer": "B"},
+    {"question": "Choose the antonym of 'brave'", "options": ["A. Strong", "B. Cowardly", "C. Fearless", "D. Heroic"], "answer": "B"},
+    {"question": "What tense is: She has eaten.", "options": ["A. Past", "B. Present", "C. Present Perfect", "D. Past Continuous"], "answer": "C"},
+    {"question": "Identify the adjective: The blue car is fast.", "options": ["A. Car", "B. Blue", "C. Fast", "D. Is"], "answer": "B"},
+    {"question": "Which of these is a preposition?", "options": ["A. Under", "B. Run", "C. Big", "D. Well"], "answer": "A"}
+  ],
+  "Computer Science": [
+    {"question": "What does HTML stand for?", "options": ["A. Hyper Text Markup Language", "B. Hyperlink Text Machine Language", "C. High Text Machine Language", "D. None"], "answer": "A"},
+    {"question": "Which is a storage device?", "options": ["A. Monitor", "B. Keyboard", "C. Flash Drive", "D. Printer"], "answer": "C"},
+    {"question": "Which key is used to delete left of cursor?", "options": ["A. Delete", "B. Backspace", "C. Space", "D. Tab"], "answer": "B"},
+    {"question": "What does CPU mean?", "options": ["A. Central Processing Unit", "B. Control Panel Unit", "C. Central Programming Unit", "D. Central Print Unit"], "answer": "A"},
+    {"question": "Which is NOT a programming language?", "options": ["A. Python", "B. Java", "C. HTML", "D. Excel"], "answer": "D"},
+    {"question": "Which one is an output device?", "options": ["A. Mouse", "B. Microphone", "C. Monitor", "D. Keyboard"], "answer": "C"},
+    {"question": "A virus in computing refers to?", "options": ["A. System speed", "B. Malicious software", "C. Firewall", "D. Cleaner"], "answer": "B"},
+    {"question": "Which of these is a browser?", "options": ["A. Excel", "B. Firefox", "C. Google", "D. Windows"], "answer": "B"},
+    {"question": "Binary uses which digits?", "options": ["A. 0 and 1", "B. 1 and 2", "C. 0 and 2", "D. 2 and 3"], "answer": "A"},
+    {"question": "What is the brain of the computer?", "options": ["A. RAM", "B. CPU", "C. Monitor", "D. ROM"], "answer": "B"}
+  ],
+  "Biology": [
+    {"question": "What organ pumps blood?", "options": ["A. Lungs", "B. Heart", "C. Liver", "D. Kidney"], "answer": "B"},
+    {"question": "Photosynthesis takes place in the?", "options": ["A. Root", "B. Stem", "C. Leaf", "D. Flower"], "answer": "C"},
+    {"question": "The smallest unit of life is?", "options": ["A. Atom", "B. Cell", "C. Molecule", "D. Organelle"], "answer": "B"},
+    {"question": "Which vitamin is produced by sunlight?", "options": ["A. A", "B. B", "C. D", "D. C"], "answer": "C"},
+    {"question": "The backbone is made of?", "options": ["A. Ribs", "B. Skull", "C. Vertebrae", "D. Limbs"], "answer": "C"},
+    {"question": "White blood cells help in?", "options": ["A. Clotting", "B. Digestion", "C. Immunity", "D. Respiration"], "answer": "C"},
+    {"question": "What do plants breathe in?", "options": ["A. Oxygen", "B. Carbon Dioxide", "C. Hydrogen", "D. Nitrogen"], "answer": "B"},
+    {"question": "The brain is protected by the?", "options": ["A. Ribs", "B. Skull", "C. Spine", "D. Blood"], "answer": "B"},
+    {"question": "Amoeba moves with its?", "options": ["A. Flagella", "B. Cilia", "C. Pseudopodia", "D. Legs"], "answer": "C"},
+    {"question": "Which system controls body movement?", "options": ["A. Respiratory", "B. Circulatory", "C. Nervous", "D. Digestive"], "answer": "C"}
+  ],
+  "Chemistry": [
+    {"question": "What is the chemical symbol for water?", "options": ["A. H2O", "B. O2", "C. HCl", "D. Na"], "answer": "A"},
+    {"question": "Which gas is used for respiration?", "options": ["A. Nitrogen", "B. Oxygen", "C. Carbon dioxide", "D. Hydrogen"], "answer": "B"},
+    {"question": "The atomic number of oxygen is...", "options": ["A. 6", "B. 8", "C. 10", "D. 12"], "answer": "B"},
+    {"question": "Which of these is a noble gas?", "options": ["A. Hydrogen", "B. Helium", "C. Chlorine", "D. Nitrogen"], "answer": "B"},
+    {"question": "The periodic table was developed by...", "options": ["A. Newton", "B. Dalton", "C. Mendeleev", "D. Einstein"], "answer": "C"},
+    {"question": "Which of the following is an acid?", "options": ["A. NaCl", "B. HCl", "C. NaOH", "D. CH4"], "answer": "B"},
+    {"question": "The formula of common salt is...", "options": ["A. NaCl", "B. KCl", "C. CaCl", "D. MgCl"], "answer": "A"},
+    {"question": "Metals are good conductors of...", "options": ["A. Water", "B. Heat", "C. Wood", "D. Air"], "answer": "B"},
+    {"question": "Which element is used in making light bulbs?", "options": ["A. Copper", "B. Helium", "C. Tungsten", "D. Iron"], "answer": "C"},
+    {"question": "A mixture of sand and salt can be separated by...", "options": ["A. filtration", "B. evaporation", "C. distillation", "D. crystallization"], "answer": "A"}
+  ],
+  "Physics": [
+    {"question": "What is the unit of force?", "options": ["A. Newton", "B. Joule", "C. Watt", "D. Pascal"], "answer": "A"},
+    {"question": "Which law states that 'for every action, there is an equal and opposite reaction'?", "options": ["A. Ohm's Law", "B. Newton's Third Law", "C. Hooke's Law", "D. Boyle's Law"], "answer": "B"},
+    {"question": "What is the speed of light in a vacuum?", "options": ["A. 3 x 10^8 m/s", "B. 3 x 10^6 m/s", "C. 3 x 10^5 km/s", "D. 3 x 10^3 km/s"], "answer": "A"},
+    {"question": "Which instrument is used to measure electric current?", "options": ["A. Voltmeter", "B. Ammeter", "C. Thermometer", "D. Barometer"], "answer": "B"},
+    {"question": "Which of the following is a vector quantity?", "options": ["A. Speed", "B. Distance", "C. Mass", "D. Velocity"], "answer": "D"},
+    {"question": "The acceleration due to gravity on Earth is approximately...", "options": ["A. 8.9 m/s²", "B. 9.8 m/s²", "C. 10.2 m/s²", "D. 11.5 m/s²"], "answer": "B"},
+    {"question": "Which energy transformation occurs in an electric motor?", "options": ["A. Electrical to mechanical", "B. Mechanical to electrical", "C. Thermal to mechanical", "D. Chemical to thermal"], "answer": "A"},
+    {"question": "Which of these best describes a concave lens?", "options": ["A. Converging lens", "B. Diverging lens", "C. Magnifying lens", "D. Convex mirror"], "answer": "B"},
+    {"question": "What device is used to convert sound energy into electrical energy?", "options": ["A. Loudspeaker", "B. Amplifier", "C. Microphone", "D. Oscilloscope"], "answer": "C"},
+    {"question": "Which of the following is a non-renewable energy source?", "options": ["A. Solar", "B. Wind", "C. Coal", "D. Hydro"], "answer": "C"}
+  ],
+  "Civic Education": [
+    {"question": "Democracy means?", "options": ["A. Government by the king", "B. Government by one", "C. Rule by the people", "D. Rule by soldiers"], "answer": "C"},
+    {"question": "Who is a citizen?", "options": ["A. Foreigner", "B. Visitor", "C. Member of a country", "D. Politician"], "answer": "C"},
+    {"question": "Which is a civic responsibility?", "options": ["A. Sleeping", "B. Voting", "C. Gossiping", "D. Fighting"], "answer": "B"},
+    {"question": "Government is divided into how many arms?", "options": ["A. 1", "B. 2", "C. 3", "D. 4"], "answer": "C"},
+    {"question": "Which of these is not a right?", "options": ["A. Right to life", "B. Right to vote", "C. Right to steal", "D. Right to education"], "answer": "C"},
+    {"question": "The head of local government is called?", "options": ["A. Governor", "B. President", "C. Chairman", "D. Minister"], "answer": "C"},
+    {"question": "What color represents peace?", "options": ["A. Black", "B. White", "C. Red", "D. Green"], "answer": "B"},
+    {"question": "What is the main duty of the police?", "options": ["A. Cooking", "B. Fighting", "C. Law enforcement", "D. Voting"], "answer": "C"},
+    {"question": "National identity can be shown by?", "options": ["A. Passport", "B. Gift", "C. Badge", "D. Certificate"], "answer": "A"},
+    {"question": "Which of these promotes unity?", "options": ["A. Tribalism", "B. Love", "C. Hatred", "D. War"], "answer": "B"}
+  ]
+}

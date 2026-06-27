@@ -1,0 +1,522 @@
+{
+    "English": [
+      {
+        "question": "Choose the correct synonym: The teacher was very **cordial** to the student.",
+        "options": ["rude", "friendly", "strict", "harsh"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of these is a **noun**?",
+        "options": ["run", "blue", "Nigeria", "quickly"],
+        "answer": "C"
+      },
+      {
+        "question": "Identify the part of speech of the word in capital letters: She ran **QUICKLY** to school.",
+        "options": ["verb", "adverb", "noun", "adjective"],
+        "answer": "B"
+      },
+      {
+        "question": "Pick the correct punctuation: He said I will come tomorrow",
+        "options": ["He said, I will come tomorrow.", "He said: I will come tomorrow", "He said, 'I will come tomorrow.'", "He said; I will come tomorrow"],
+        "answer": "C"
+      },
+      {
+        "question": "Which sentence is correct?",
+        "options": ["The books is on the table.", "The books are on the table.", "The book are on the table.", "The books am on the table."],
+        "answer": "B"
+      },
+      {
+        "question": "What is the opposite of 'Generous'?",
+        "options": ["Stingy", "Kind", "Happy", "Gentle"],
+        "answer": "A"
+      },
+      {
+        "question": "Which word is spelt correctly?",
+        "options": ["Enviroment", "Envirinment", "Environment", "Enviroement"],
+        "answer": "C"
+      },
+      {
+        "question": "Which is the plural of 'mouse'?",
+        "options": ["Mouses", "Mice", "Mouse", "Mices"],
+        "answer": "B"
+      },
+      {
+        "question": "Which is a correct question tag: You are coming, ___?",
+        "options": ["isn't it", "aren't you", "won't you", "don't you"],
+        "answer": "B"
+      },
+      {
+        "question": "Choose the correct tense: By next year, I ___ completed the course.",
+        "options": ["have", "will have", "had", "would"],
+        "answer": "B"
+      }
+    ],
+    "Mathematics": [
+      {
+        "question": "What is the value of 3x when x = 5?",
+        "options": ["15", "8", "10", "20"],
+        "answer": "A"
+      },
+      {
+        "question": "Simplify: 8 + 2 × 3",
+        "options": ["30", "24", "14", "18"],
+        "answer": "C"
+      },
+      {
+        "question": "Find the LCM of 4 and 6.",
+        "options": ["24", "6", "12", "8"],
+        "answer": "C"
+      },
+      {
+        "question": "Solve: 5² + 3",
+        "options": ["28", "25", "27", "23"],
+        "answer": "C"
+      },
+      {
+        "question": "If a = 2 and b = 3, find ab + b.",
+        "options": ["6", "9", "8", "10"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the square root of 49?",
+        "options": ["5", "6", "7", "8"],
+        "answer": "C"
+      },
+      {
+        "question": "Simplify: (3x + 2x)",
+        "options": ["5x", "6x", "3x²", "x"],
+        "answer": "A"
+      },
+      {
+        "question": "Convert 0.75 to a fraction.",
+        "options": ["3/4", "1/2", "2/5", "4/5"],
+        "answer": "A"
+      },
+      {
+        "question": "Find the perimeter of a square with side 4cm.",
+        "options": ["12cm", "16cm", "8cm", "20cm"],
+        "answer": "B"
+      },
+      {
+        "question": "If 2x = 10, what is x?",
+        "options": ["8", "6", "5", "4"],
+        "answer": "C"
+      }
+    ],
+    "Biology": [
+      {
+        "question": "The basic unit of life is the...",
+        "options": ["organ", "cell", "tissue", "organism"],
+        "answer": "B"
+      },
+      {
+        "question": "What does the mitochondrion do?",
+        "options": ["Controls the cell", "Produces energy", "Stores food", "Makes proteins"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of these is a vertebrate?",
+        "options": ["Frog", "Earthworm", "Ant", "Snail"],
+        "answer": "A"
+      },
+      {
+        "question": "Photosynthesis mainly occurs in the...",
+        "options": ["stem", "root", "leaf", "flower"],
+        "answer": "C"
+      },
+      {
+        "question": "The green pigment in plants is called...",
+        "options": ["chlorophyll", "carotene", "xanthophyll", "hemoglobin"],
+        "answer": "A"
+      },
+      {
+        "question": "Which one is NOT a sense organ?",
+        "options": ["Eye", "Ear", "Heart", "Tongue"],
+        "answer": "C"
+      },
+      {
+        "question": "An example of a non-renewable resource is...",
+        "options": ["Sunlight", "Coal", "Wind", "Water"],
+        "answer": "B"
+      },
+      {
+        "question": "The human skeleton is made of...",
+        "options": ["muscles", "cartilage", "bones", "nerves"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of these causes malaria?",
+        "options": ["Virus", "Bacteria", "Fungi", "Plasmodium"],
+        "answer": "D"
+      },
+      {
+        "question": "Respiration produces...",
+        "options": ["oxygen", "carbon dioxide", "energy", "water"],
+        "answer": "C"
+      }
+    ],
+    "Chemistry": [
+      {
+        "question": "What is the chemical symbol for water?",
+        "options": ["H2O", "O2", "HCl", "Na"],
+        "answer": "A"
+      },
+      {
+        "question": "Which gas is used for respiration?",
+        "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"],
+        "answer": "B"
+      },
+      {
+        "question": "The atomic number of oxygen is...",
+        "options": ["6", "8", "10", "12"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of these is a noble gas?",
+        "options": ["Hydrogen", "Helium", "Chlorine", "Nitrogen"],
+        "answer": "B"
+      },
+      {
+        "question": "The periodic table was developed by...",
+        "options": ["Newton", "Dalton", "Mendeleev", "Einstein"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is an acid?",
+        "options": ["NaCl", "HCl", "NaOH", "CH4"],
+        "answer": "B"
+      },
+      {
+        "question": "The formula of common salt is...",
+        "options": ["NaCl", "KCl", "CaCl", "MgCl"],
+        "answer": "A"
+      },
+      {
+        "question": "Metals are good conductors of...",
+        "options": ["Water", "Heat", "Wood", "Air"],
+        "answer": "B"
+      },
+      {
+        "question": "Which element is used in making light bulbs?",
+        "options": ["Copper", "Helium", "Tungsten", "Iron"],
+        "answer": "C"
+      },
+      {
+        "question": "A mixture of sand and salt can be separated by...",
+        "options": ["filtration", "evaporation", "distillation", "crystallization"],
+        "answer": "A"
+      }
+    ],
+    "Government": [
+      {
+        "question": "Democracy means...",
+        "options": ["Rule by soldiers", "Rule by the people", "Rule by the rich", "Rule by the king"],
+        "answer": "B"
+      },
+      {
+        "question": "The head of government in Nigeria is the...",
+        "options": ["President", "Governor", "Senator", "Chairman"],
+        "answer": "A"
+      },
+      {
+        "question": "Nigeria became a republic in...",
+        "options": ["1960", "1963", "1979", "1999"],
+        "answer": "B"
+      },
+      {
+        "question": "The judiciary interprets...",
+        "options": ["laws", "budgets", "policies", "plans"],
+        "answer": "A"
+      },
+      {
+        "question": "Which arm makes the laws?",
+        "options": ["Executive", "Judiciary", "Legislature", "Police"],
+        "answer": "C"
+      },
+      {
+        "question": "How many senators are in Nigeria?",
+        "options": ["109", "36", "360", "774"],
+        "answer": "A"
+      },
+      {
+        "question": "The first Nigerian president was...",
+        "options": ["Obasanjo", "Balewa", "Azikiwe", "Awolowo"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of these is NOT a political party?",
+        "options": ["PDP", "APC", "INEC", "NNPP"],
+        "answer": "C"
+      },
+      {
+        "question": "A constitution is...",
+        "options": ["a law", "a policy", "a document of rules", "a newspaper"],
+        "answer": "C"
+      },
+      {
+        "question": "Local government is the ___ tier.",
+        "options": ["first", "second", "third", "fourth"],
+        "answer": "C"
+      }
+    ],
+    "Physics": [
+      {
+        "question": "What is the unit of force?",
+        "options": ["Newton", "Joule", "Watt", "Pascal"],
+        "answer": "A"
+      },
+      {
+        "question": "Which law states that 'for every action, there is an equal and opposite reaction'?",
+        "options": ["Ohm's Law", "Newton's Third Law", "Hooke's Law", "Boyle's Law"],
+        "answer": "B"
+      },
+      {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^5 km/s", "3 x 10^3 km/s"],
+        "answer": "A"
+      },
+      {
+        "question": "Which instrument is used to measure electric current?",
+        "options": ["Voltmeter", "Ammeter", "Thermometer", "Barometer"],
+        "answer": "B"
+      },
+      {
+        "question": "Which of the following is a vector quantity?",
+        "options": ["Speed", "Distance", "Mass", "Velocity"],
+        "answer": "D"
+      },
+      {
+        "question": "The acceleration due to gravity on Earth is approximately...",
+        "options": ["8.9 m/s²", "9.8 m/s²", "10.2 m/s²", "11.5 m/s²"],
+        "answer": "B"
+      },
+      {
+        "question": "Which energy transformation occurs in an electric motor?",
+        "options": ["Electrical to mechanical", "Mechanical to electrical", "Thermal to mechanical", "Chemical to thermal"],
+        "answer": "A"
+      },
+      {
+        "question": "Which of these best describes a concave lens?",
+        "options": ["Converging lens", "Diverging lens", "Magnifying lens", "Convex mirror"],
+        "answer": "B"
+      },
+      {
+        "question": "What device is used to convert sound energy into electrical energy?",
+        "options": ["Loudspeaker", "Amplifier", "Microphone", "Oscilloscope"],
+        "answer": "C"
+      },
+      {
+        "question": "Which of the following is a non-renewable energy source?",
+        "options": ["Solar", "Wind", "Coal", "Hydro"],
+        "answer": "C"
+      }
+    ],
+    "Literature": [
+      {
+        "question": "A story told in verse is called a...",
+        "options": ["Novel", "Drama", "Narrative poem", "Short story"],
+        "answer": "C"
+      },
+      {
+        "question": "The main character in a story is called the...",
+        "options": ["Antagonist", "Protagonist", "Narrator", "Hero"],
+        "answer": "B"
+      },
+      {
+        "question": "A comparison using 'like' or 'as' is called a...",
+        "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+        "answer": "B"
+      },
+      {
+        "question": "The sequence of events in a story is called the...",
+        "options": ["Theme", "Setting", "Plot", "Character"],
+        "answer": "C"
+      },
+      {
+        "question": "A play written to be performed is called...",
+        "options": ["Novel", "Drama", "Poetry", "Essay"],
+        "answer": "B"
+      },
+      {
+        "question": "The time and place of a story is called the...",
+        "options": ["Plot", "Theme", "Setting", "Mood"],
+        "answer": "C"
+      },
+      {
+        "question": "Giving human qualities to non-human things is called...",
+        "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "answer": "C"
+      },
+      {
+        "question": "The central message of a story is its...",
+        "options": ["Plot", "Setting", "Character", "Theme"],
+        "answer": "D"
+      },
+      {
+        "question": "A 14-line poem is called a...",
+        "options": ["Haiku", "Sonnet", "Ballad", "Limerick"],
+        "answer": "B"
+      },
+      {
+        "question": "The repetition of initial consonant sounds is called...",
+        "options": ["Rhyme", "Rhythm", "Alliteration", "Assonance"],
+        "answer": "C"
+      }
+    ],
+    "Economics": [
+      {
+        "question": "The study of how people use scarce resources is called...",
+        "options": ["Geography", "Economics", "History", "Politics"],
+        "answer": "B"
+      },
+      {
+        "question": "When supply is greater than demand, prices tend to...",
+        "options": ["Rise", "Fall", "Stay the same", "Fluctuate wildly"],
+        "answer": "B"
+      },
+      {
+        "question": "The basic economic problem is...",
+        "options": ["Poverty", "Scarcity", "Unemployment", "Inflation"],
+        "answer": "B"
+      },
+      {
+        "question": "Goods that are used to produce other goods are called...",
+        "options": ["Consumer goods", "Capital goods", "Free goods", "Public goods"],
+        "answer": "B"
+      },
+      {
+        "question": "The reward for entrepreneurship is...",
+        "options": ["Wages", "Rent", "Interest", "Profit"],
+        "answer": "D"
+      },
+      {
+        "question": "A market where only one seller exists is called...",
+        "options": ["Perfect competition", "Monopoly", "Oligopoly", "Duopoly"],
+        "answer": "B"
+      },
+      {
+        "question": "The total value of goods produced in a country is called...",
+        "options": ["GDP", "GNP", "National income", "Per capita income"],
+        "answer": "A"
+      },
+      {
+        "question": "Money functions as a...",
+        "options": ["Medium of exchange", "Store of value", "Unit of account", "All of the above"],
+        "answer": "D"
+      },
+      {
+        "question": "Inflation is a general rise in...",
+        "options": ["Wages", "Prices", "Production", "Employment"],
+        "answer": "B"
+      },
+      {
+        "question": "The opportunity cost is...",
+        "options": ["Money spent", "Time wasted", "Best alternative forgone", "Total cost"],
+        "answer": "C"
+      }
+    ],
+    "CRK": [
+      {
+        "question": "How many books are in the New Testament?",
+        "options": ["25", "27", "28", "26"],
+        "answer": "B"
+      },
+      {
+        "question": "Who was the first man created by God?",
+        "options": ["Abel", "Adam", "Abraham", "Moses"],
+        "answer": "B"
+      },
+      {
+        "question": "Jesus was born in...",
+        "options": ["Nazareth", "Jerusalem", "Bethlehem", "Galilee"],
+        "answer": "C"
+      },
+      {
+        "question": "The Ten Commandments were given to...",
+        "options": ["Abraham", "Moses", "David", "Noah"],
+        "answer": "B"
+      },
+      {
+        "question": "The first book in the Bible is...",
+        "options": ["Exodus", "Genesis", "Leviticus", "Matthew"],
+        "answer": "B"
+      },
+      {
+        "question": "Jesus had how many disciples?",
+        "options": ["10", "11", "12", "13"],
+        "answer": "C"
+      },
+      {
+        "question": "The strongest man in the Bible was...",
+        "options": ["David", "Samson", "Goliath", "Solomon"],
+        "answer": "B"
+      },
+      {
+        "question": "The Garden of Eden was created for...",
+        "options": ["Animals", "Angels", "Adam and Eve", "Noah"],
+        "answer": "C"
+      },
+      {
+        "question": "Jesus died on the...",
+        "options": ["Mountain", "Cross", "Tree", "Ground"],
+        "answer": "B"
+      },
+      {
+        "question": "The wisest king in the Bible was...",
+        "options": ["David", "Saul", "Solomon", "Hezekiah"],
+        "answer": "C"
+      }
+    ],
+    "Geography": [
+      {
+        "question": "The largest continent is...",
+        "options": ["Africa", "Asia", "North America", "Europe"],
+        "answer": "B"
+      },
+      {
+        "question": "The longest river in the world is...",
+        "options": ["Amazon", "Nile", "Mississippi", "Congo"],
+        "answer": "B"
+      },
+      {
+        "question": "Lines of latitude run...",
+        "options": ["North to South", "East to West", "Diagonally", "In circles"],
+        "answer": "B"
+      },
+      {
+        "question": "The capital of Nigeria is...",
+        "options": ["Lagos", "Abuja", "Kano", "Port Harcourt"],
+        "answer": "B"
+      },
+      {
+        "question": "The Sahara Desert is located in...",
+        "options": ["Asia", "Australia", "Africa", "South America"],
+        "answer": "C"
+      },
+      {
+        "question": "The study of maps is called...",
+        "options": ["Cartography", "Geology", "Meteorology", "Oceanography"],
+        "answer": "A"
+      },
+      {
+        "question": "The highest mountain in the world is...",
+        "options": ["K2", "Mount Everest", "Mount Kilimanjaro", "Mount McKinley"],
+        "answer": "B"
+      },
+      {
+        "question": "The Prime Meridian passes through...",
+        "options": ["Paris", "London", "New York", "Rome"],
+        "answer": "B"
+      },
+      {
+        "question": "Nigeria is located in which part of Africa?",
+        "options": ["North", "South", "East", "West"],
+        "answer": "D"
+      },
+      {
+        "question": "The imaginary line that divides the Earth into Northern and Southern hemispheres is...",
+        "options": ["Prime Meridian", "Tropic of Cancer", "Equator", "Tropic of Capricorn"],
+        "answer": "C"
+      }
+    ]
+  }
