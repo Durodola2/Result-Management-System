@@ -1,128 +1,220 @@
-\# 🎓 Academic Result & CBT Management System
+\# 📚 Result Management System
 
-A Python-based desktop application designed to simplify academic result management while providing an interactive Computer-Based Testing (CBT) environment for students.
 
-The system combines student authentication, examination simulation, result management, and course administration into one application, making it suitable for educational institutions and personal exam preparation.
 
-\---
+A desktop-based academic Result Management and Computer-Based Test (CBT) system developed using Python.
 
-\#\# ✨ Features
 
-\- 🔐 User Registration & Login  
-\- 👨‍🎓 Student Dashboard  
-\- 📝 CBT Quiz Simulation  
-\- 📚 JAMB CBT Practice Mode  
-\- 📊 Student Result Viewer  
-\- 🗂️ Course Management  
-\- 💾 SQLite Database Integration  
-\- 📈 Score Recording & Storage
+
+The application enables students to register, log in, take quizzes or JAMB-style examinations, view their results, while administrators manage courses and monitor student performance.
+
+
 
 \---
 
-\#\# 🛠️ Technologies Used
 
-\- Python  
-\- Tkinter  
-\- SQLite  
-\- JSON  
-\- Object-Oriented Programming (OOP)
 
-\---
+\## ✨ Features
 
-\#\# 📂 Project Structure
 
-\`\`\`  
-Academic-Result-CBT-System/  
-│  
-├── source/  
-│   ├── auth.py  
-│   ├── dashboard.py  
-│   ├── database.py  
-│   ├── LOGIN\_WINDOW.py  
-│   ├── jamb\_exam\_window.py  
-│   ├── quiz\_simulator.py  
-│   ├── result.py  
-│   ├── result\_viewer.py  
-│   ├── course\_manager.py  
-│   └── ...  
-│  
-├── screenshots/  
-│  
-└── README.md  
-\`\`\`
+
+\- Student Registration \& Login
+
+\- Secure Authentication
+
+\- Interactive CBT Examination
+
+\- JAMB Simulation Mode
+
+\- Automatic Score Calculation
+
+\- Result Storage using SQLite
+
+\- Individual Result Viewer
+
+\- Administrator Dashboard
+
+\- Course Management
+
+\- User-friendly Tkinter Interface
+
+
 
 \---
 
-\#\# 📸 Screenshots
 
-\#\#\# Login Page
 
-\!\[Login\](screenshots/login-page.png)
+\## 🛠 Technologies Used
 
-\---
 
-\#\#\# Signup Page
 
-\!\[Signup\](screenshots/signup-page.png)
+\- Python
 
-\---
+\- Tkinter
 
-\#\#\# Student Dashboard
+\- SQLite
 
-\!\[Dashboard\](screenshots/dashboard.png)
+\- JSON
+
+
 
 \---
 
-\#\#\# JAMB Subject Selection
 
-\!\[JAMB\](screenshots/jamb-selection.png)
 
-\---
+\## 📷 Screenshots
 
-\#\# 🚀 How to Run
 
-1\. Clone this repository
 
-\`\`\`  
-git clone https://github.com/Durodola2/Result-Management-System.git  
-\`\`\`
+\### Login Page
 
-2\. Open the project folder
 
-3\. Install Python 3.10 or newer.
 
-4\. Run
+!\[Login](screenshots/login.png)
 
-\`\`\`  
-python LOGIN\_WINDOW.py  
-\`\`\`
+
 
 \---
 
-\#\# 🎯 Future Improvements
 
-\- Export results to PDF  
-\- Email result notifications  
-\- Multi-user administrator roles  
-\- Responsive web version  
-\- Cloud database integration  
-\- Analytics dashboard
+
+\### Dashboard
+
+
+
+!\[Dashboard](screenshots/dashboard.png)
+
+
 
 \---
 
-\#\# 👨‍💻 Author
+
+
+\### Student Signup
+
+
+
+!\[Signup](screenshots/signup.png)
+
+
+
+\---
+
+
+
+\### JAMB Subject Selection
+
+
+
+!\[JAMB](screenshots/jamb-selection.png)
+
+
+
+\---
+
+
+
+\## 📂 Project Structure
+
+
+
+```
+
+Result-Management-System
+
+│
+
+├── source/
+
+│   ├── LOGIN\_WINDOW.py
+
+│   ├── dashboard.py
+
+│   ├── quiz\_simulator.py
+
+│   ├── jamb\_exam\_window.py
+
+│   ├── auth.py
+
+│   ├── database.py
+
+│   └── ...
+
+│
+
+├── screenshots/
+
+├── README.md
+
+└── .gitignore
+
+```
+
+
+
+\---
+
+
+
+\## ▶️ Getting Started
+
+
+
+Clone the repository
+
+
+
+```bash
+
+git clone https://github.com/Durodola2/Result-Management-System.git
+
+```
+
+
+
+Navigate into the project
+
+
+
+```bash
+
+cd Result-Management-System
+
+```
+
+
+
+Run the application
+
+
+
+```bash
+
+python source/LOGIN\_WINDOW.py
+
+```
+
+
+
+\---
+
+
+
+\## 👨‍💻 Author
+
+
 
 \*\*David Durodola\*\*
 
-Backend Developer | Python Developer | Database Enthusiast
 
-Email: durodoladavid3@gmail.com
 
-GitHub:  
+Email:
+
+durodoladavid3@gmail.com
+
+
+
+GitHub:
+
 https://github.com/Durodola2
 
-\---
-
-\#\# 📄 License
-
-This project was developed for educational and portfolio purposes.  
