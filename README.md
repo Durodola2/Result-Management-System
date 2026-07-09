@@ -66,7 +66,7 @@ The application enables students to register, log in, take quizzes or JAMB-style
 
 ### Login Page
 
-![Login](screenshots/login.png)
+![Login](screenshots/login page.png)
 
 ---
 
@@ -78,13 +78,13 @@ The application enables students to register, log in, take quizzes or JAMB-style
 
 ### JAMB Subject Selection
 
-![JAMB](screenshots/jamb-selection.png)
+![JAMB](screenshots/jamb cbt selection page.png)
 
 ---
 
 ### Student Signup
 
-![Signup](screenshots/signup.png)
+![Signup](screenshots/signup page.png)
 
 
 \---
