@@ -62,52 +62,29 @@ The application enables students to register, log in, take quizzes or JAMB-style
 
 
 
-\## 📷 Screenshots
+## 📷 Screenshots
 
+### Login Page
 
+![Login](screenshots/login.png)
 
-\### Login Page
+---
 
+### Dashboard
 
+![Dashboard](screenshots/dashboard.png)
 
-!\[Login](screenshots/login.png)
+---
 
+### JAMB Subject Selection
 
+![JAMB](screenshots/jamb-selection.png)
 
-\---
+---
 
+### Student Signup
 
-
-\### Dashboard
-
-
-
-!\[Dashboard](screenshots/dashboard.png)
-
-
-
-\---
-
-
-
-\### Student Signup
-
-
-
-!\[Signup](screenshots/signup.png)
-
-
-
-\---
-
-
-
-\### JAMB Subject Selection
-
-
-
-!\[JAMB](screenshots/jamb-selection.png)
-
+![Signup](screenshots/signup.png)
 
 
 \---
