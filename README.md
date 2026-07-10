@@ -54,7 +54,7 @@ The system enables students to register, log in, take quizzes or JAMB-style exam
 
 ### Login Page
 
-![Login](screenshots/login%20page.png)
+![Login](screenshots/login.png)
 
 ---
 
@@ -66,13 +66,13 @@ The system enables students to register, log in, take quizzes or JAMB-style exam
 
 ### JAMB Subject Selection
 
-![JAMB](screenshots/jamb%20cbt%20selection%20page.png)
+![JAMB](screenshots/jamb-selection.png)
 
 ---
 
 ### Student Signup
 
-![Signup](screenshots/sign%20up%20page.png)
+![Signup](screenshots/signup.png)
 
 ---
 
