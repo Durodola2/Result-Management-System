@@ -52,31 +52,15 @@ The system enables students to register, log in, take quizzes or JAMB-style exam
 
 ## 📷 Screenshots
 
-### Login Page
+| Login Page | Dashboard |
+|---|---|
+| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
 
-![Login](screenshots/login.png)
+| JAMB Subject Selection | Student Signup |
+|---|---|
+| ![JAMB](screenshots/jamb-selection.png) | ![Signup](screenshots/signup.png) |
 
----
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
----
-
-### JAMB Subject Selection
-
-![JAMB](screenshots/jamb-selection.png)
-
----
-
-### Student Signup
-
-![Signup](screenshots/signup.png)
-
----
-
-## 📂 Project Structure
+---## 📂 Project Structure
 
 ```text
 RESULT-MANAGER2
